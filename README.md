@@ -6,7 +6,7 @@ Welcome to the **React Admin Dashboard**! This application is designed to provid
 
 ## 🚀 Live Demo
 
-You can explore the live version of the application here: [https://diagrammer-pro-sabin.vercel.app/](https://diagrammer-pro-sabin.vercel.app/)
+You can explore the live version of the application here: [https://react-dashboard-sabin.vercel.app/](https://react-dashboard-sabin.vercel.app/)
 
 ---
 
